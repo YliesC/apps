@@ -47,7 +47,7 @@
     },
     "Pelican": {
         "branch": "master",
-        "revision": "e064ef419126fe0dd7c1cfcc15595da9d65eabd9",
+        "revision": "a2f37b8e277ba173b53f73320514f1fc7f3aa3ac",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/pelican_ynh"
     },
